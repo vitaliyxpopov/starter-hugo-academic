@@ -1,19 +1,22 @@
 ---
-title: "An example conference paper"
+title: "Making Clinical Decision-Making Visible: A Sequential Analysis of AR simulation for Pediatric Airway Management Training"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Lauryn Rochlen
+- Elizabeth Putnam 
+- Hanxiang Du
+- Alan Tait
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,13 +29,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication:
+publication_short: In *the International Meeting on Simulation in Healthcare (IMSH) 2022*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Augmented Reality (AR)-based simulation training off ers several unique features that provide acollection of dynamic behavioral data and increased immersion/realism while still providingopportunities for training healthcare professionals on critical ‘high acuity, low frequency' events thatare diffi cult to recreate in real life. In this study, we used sequentialanalysis (i.e., a data analytic approach that helps detect patterns and temporal associations amongobserved behaviors) to investigate diff erential patterns of clinical decision-makingbehaviors in managing pediatric airway AR simulated scenarios between participants with variousspecialties and levels of training.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study contributes to the transformative use of Augmented Reality technology and learning analytics by providing a novel and practical application of this technology to assess clinical decision-making in the context of healthcare simulations.
 
 tags: []
 
