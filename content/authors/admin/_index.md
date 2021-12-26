@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: "mailto:vipopov@umich.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/vitaliyxpopov 
@@ -61,6 +61,6 @@ email: "vipopov@umich.edu"
 highlight_name: true
 ---
 
-Vitaliy Popov is an Assistant Professor of Learning Health Sciences. He is passionate about understading how team function can be optimized to lead to better learning gaing, performance and healthcare outcomes. His background allows him to utilize evidence in education science, simulation-based training and learning analytics to understand how people become expert health professionals, how they can better work in teams and how we can support these processes to foster health care delivery.
+Vitaliy Popov is an Assistant Professor of Learning Health Sciences. He is passionate about understading how team function can be optimized to lead to better learning gains, performance and healthcare outcomes. His background allows him to utilize evidence in education science, simulation-based training and learning analytics to understand how people become expert health professionals, how they can better work in teams and how we can support these processes to foster health care delivery.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
